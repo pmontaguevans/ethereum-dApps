@@ -1,0 +1,2 @@
+# smarttravels
+smartravels is an ethereum dApp that lets users with an ethereum address interact and trade on last minute airline tickets that havn't been sold for specific flights. This enables customers to buy cheaper tickets.
